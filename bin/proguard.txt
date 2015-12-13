@@ -1,0 +1,3 @@
+# view AndroidManifest.xml #generated:17
+-keep class net.cloud95.android.lession.httppost.MainActivity { <init>(...); }
+
